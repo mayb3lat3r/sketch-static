@@ -1,0 +1,158 @@
+.ajg--G7 {
+  background: rgb(255, 255, 255);
+}
+
+@keyframes dtVqIi {
+  0% {
+  }
+
+  100% {
+  }
+}
+
+.atVqIi {
+  position: absolute;
+  top: 50px;
+  left: 10px;
+
+  display: flex;
+  opacity: 0;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+
+  border-radius: 6px;
+  backdrop-filter: blur(20px);
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.4);
+  box-shadow: 0px 0px 100px 1px rgba(0, 0, 0, 0.123);
+
+  padding-left: 5px;
+  padding-right: 10px;
+
+  transition: opacity 0.1s ease-in-out;
+}
+
+li {
+  display: flex;
+  align-items: center;
+}
+
+.btVqIi {
+  padding: 6px;
+  margin: 0 2px;
+  background: none;
+  width: 35px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border: none;
+  transition: ease 0.2s;
+  user-select: none;
+}
+
+.btVqIi img {
+  width: 100%;
+}
+
+.ctVqIi {
+  opacity: 100%;
+}
+
+input[type='range'] {
+  height: 5px;
+}
+
+.aFAjQC {
+  position: relative;
+  overflow: hidden;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: solid 2px #ddd;
+}
+
+.bFAjQC {
+  position: absolute;
+  cursor: pointer;
+  top: -5px;
+  left: -5px;
+  width: 30px;
+  height: 30px;
+  border: none;
+}
+
+.a0Vd4-- {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+
+  border-radius: 6px;
+  backdrop-filter: blur(20px);
+  overflow: hidden;
+  box-shadow: 0px 0px 100px 1px rgba(0, 0, 0, 0.123);
+  background: rgba(255, 255, 255, 0.4);
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.aOQK--E {
+  padding: 8px;
+  margin: 0 2px;
+  background: none;
+  width: 35px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border: none;
+  transition: ease 0.2s;
+  user-select: none;
+}
+
+.aOQK--E:hover {
+  background: rgba(20, 150, 255, 0.8);
+}
+
+.aOQK--E img {
+  width: 100%;
+}
+
+.bOQK--E {
+  background: rgba(20, 150, 255, 0.2);
+  border-bottom: 4px solid rgba(20, 150, 255, 0.8);
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.avpLPM {
+  display: flex;
+  /* margin-left: 10px; */
+  border-left: 1px solid rgba(218, 218, 218, 0.5);
+}
+
+.a7iVXO {
+  position: relative;
+  display: inline-block;
+
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+
+  font-size: 14px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+

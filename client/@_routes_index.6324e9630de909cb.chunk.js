@@ -1,0 +1,1 @@
+(self.wsp=self.wsp||[]).push([["@_routes_index"],{5011:function(n){n.exports={}},6716:function(n,s,e){"use strict";e.r(s),e.d(s,{IndexPage:function(){return c}}),e(4121);var t=e(8461),i=e(5011),r=e.n(i),u=e(130),a={},c=function(){return(0,u.jsx)("main",{className:r().main,children:(0,u.jsx)(t.v,Object.assign({},a))})};s.default=c}}]);

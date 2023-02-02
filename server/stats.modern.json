@@ -1,0 +1,59 @@
+{
+  "publicPath": "",
+  "outputPath": "/Users/m.zvenigorodskiy/Dev/sketch/dist/client",
+  "assetsByChunkName": {
+    "platform": [
+      "platform.b1b9d55300335b2c.css",
+      "platform.a56500036a35aa00.js"
+    ],
+    "@_routes_index": [
+      "@_routes_index.4249c7fafdd6d8e1.chunk.css",
+      "@_routes_index.a0e18e7c67023998.chunk.js"
+    ],
+    "react": [
+      "react.da18a639015e79a9.js"
+    ]
+  },
+  "namedChunkGroups": {
+    "platform": {
+      "name": "platform",
+      "chunks": [
+        "react",
+        "platform"
+      ],
+      "assets": [
+        {
+          "name": "react.da18a639015e79a9.js"
+        },
+        {
+          "name": "platform.b1b9d55300335b2c.css"
+        },
+        {
+          "name": "platform.a56500036a35aa00.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 10,
+      "auxiliaryAssetsSize": null
+    },
+    "@_routes_index": {
+      "name": "@_routes_index",
+      "chunks": [
+        "@_routes_index"
+      ],
+      "assets": [
+        {
+          "name": "@_routes_index.4249c7fafdd6d8e1.chunk.css"
+        },
+        {
+          "name": "@_routes_index.a0e18e7c67023998.chunk.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 1,
+      "auxiliaryAssetsSize": null
+    }
+  }
+}
